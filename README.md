@@ -30,10 +30,14 @@ Data to update :
 Data to delete : { "id" : "66" } 
 
 ############################## 
+
 5. READ ONE BOOK : (Get) http://localhost/api/book/read_one.php?id=60 
 ############################## 
+
 6. SEARCH BOOKS : (Get) http://localhost/api/book/search.php?s=Amazing 
 ############################## 
+
 7. PAGINATE BOOKS : (Get) http://localhost/api/book/read_paging.php
 ############################## 
+
 8. READ CATEGORIES : (Get) http://localhost/api/category/read.php
