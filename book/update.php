@@ -58,7 +58,7 @@ if(
     }
 
 // tell the user data is incomplete
-else{
+}else{
  
     // set response code - 400 bad request
     http_response_code(400);
